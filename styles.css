@@ -10,7 +10,7 @@
 
 .subtitle {
     font-family: 'Cormorant Unicase', serif;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 body {
@@ -40,15 +40,16 @@ body {
 #computer-icon-wrapper {
     background-color:deepskyblue;
     font-size: 50px;
-    margin-top: 20px;
-    margin-bottom: 50px;
     width: 100px;
     height: 100px;
     border-radius: 50%;
     color: black;
-}
+}r
  
 #scoreboard {
     font-weight:bolder;
 }
 
+#play-again {
+    margin-bottom: 50px;
+}
