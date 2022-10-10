@@ -20,18 +20,17 @@ body {
 #button-container button {
     background-color:deepskyblue;
     font-size: 50px;
-    margin: 50px;
     width: 100px;
     height: 100px;
     border-radius: 50%;
 }
 
-#button-container button:hover { /*nag chachange yung style*/
+#button-container button:hover { 
     background-color:dodgerblue;
 }
 
 #button-container button:hover i {
-    transform: scale(1.2); /*lumalaki yung button*/ 
+    transform: scale(1.2);
 }
 
 .computer {
@@ -41,7 +40,8 @@ body {
 #computer-icon-wrapper {
     background-color:deepskyblue;
     font-size: 50px;
-    margin: 40px;
+    margin-top: 20px;
+    margin-bottom: 50px;
     width: 100px;
     height: 100px;
     border-radius: 50%;

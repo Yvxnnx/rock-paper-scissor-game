@@ -14,7 +14,7 @@ let currentComputerScore = 0
 let userScore = 0
 
 function play(userChoice) {
-    let computerChoice = Math.floor(Math.random() * 3) + 1; //Pipili ang computer from 1-3
+    let computerChoice = Math.floor(Math.random() * 3) + 1; 
     displayComputerChoice(computerChoice)
 
     if (userChoice == 1 && computerChoice == 1 
